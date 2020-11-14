@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Alex-BC/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://Alex-BC.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://alex-bc.github.io/goit-js-hw-10-food-service",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2"
